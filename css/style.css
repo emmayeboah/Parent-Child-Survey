@@ -1,0 +1,94 @@
+body{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 12pt;
+  background-image: linear-gradient(to bottom left, blue,#03fcf4, #787cf0);
+  color: white;
+  background-image: url("../images/parent-child.jpg");
+  background-size: cover;
+}
+
+
+#title{
+  font-size: 45px;
+}
+
+#description{
+  font-size: 20px;
+  margin-top: 1rem;
+}
+#body{
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 15px;
+  text-align: left;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+}
+#name-label{
+  font-weight: bolder;
+  font-size: 1.3rem
+}
+#name{
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+#email{
+
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+#age{
+
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+#parent-name{
+
+  width: 550px;
+  padding: 15px;
+  border-radius: 10px;
+  border-color: #2a30de:
+}
+#meet-up{
+  margin: 1rem;
+}
+
+#involvement{
+  margin: 1rem;
+}
+
+#parent{
+  margin: 1rem;
+}
+
+#help{
+  margin: 1rem;
+}
+
+#fundraising{
+  margin: 1rem;
+}
+
+#visiting{
+  margin: 1rem;
+}
+#additional-info{
+  border-radius: 2rem;
+}
+
+#social-media{
+  margin: 1rem;
+}
+#submit{
+  width: 570px;
+  padding: 15px;
+  border-radius: 15rem;
+}
